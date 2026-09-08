@@ -1,15 +1,16 @@
 # Unity Robotics Hub 기반 로봇 시뮬레이션 커리큘럼
 
-> **과정명**: Unity Robotics Hub를 활용한 로봇 시뮬레이션 및 제어
-> **학습 기간**: 1학기 (15주, 주 3시간 수업 + 실습)
-> **난이도**: 초급 ~ 중고급
+> **과정명**: Unity Robotics Hub를 활용한 로봇 시뮬레이션 및 제어 <br>
+> **학습 기간**: 1학기 (15주, 주 3시간 수업 + 실습) <br>
+> **난이도**: 초급 ~ 중고급 <br>
 > **사전 준비물**: Unity 2021.3 LTS 이상, ROS (Noetic 또는 ROS 2 Humble), Python 3, Git
 
 ---
 
 ## 📃 문서 안내
 
-이 저장소는 [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)를 활용한 로봇 시뮬레이션 커리큘럼입니다. 상세 내용은 `topics/` 폴더의 파일 단위로 분리되어 있습니다.
+> 이 저장소는 [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)를 <br>
+활용한 로봇 시뮬레이션 커리큘럼입니다. 상세 내용은 `topics/` 폴더의 파일 단위로 분리되어 있습니다.
 
 | 파일 | 내용 |
 |---|---|
